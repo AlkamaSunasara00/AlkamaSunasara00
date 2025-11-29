@@ -78,7 +78,6 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 ## 🚀 Projects I’ve Built
 
 - 🏢 **Real Estate Management System**  
-- 🍰 **Bakery Website (Live)**  
 - 🛒 **E-Commerce Platform**  
 - 🗂️ **Portfolio with Animated Tabs & Tech Filters**  
 - 🪡 **TailorConnect** – state → city → tailor finder  
