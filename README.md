@@ -26,7 +26,6 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 - 🏗️ Custom dashboards & admin panels  
 - 🛒 E-commerce systems  
 - 🏢 Real estate management platforms  
-- 🍰 Production websites (like **Sheetal Sweets & Bakery**)  
 - 📱 Mobile development using **React Native + Expo**  
 
 ---
@@ -98,15 +97,21 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://alkamasunasara.vercel.app/" target="_blank">
+<p>
+    <a href="https://alkamasunasara.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alkama-sunasara-b682a3316/" target="_blank">
+</p>
+<p>
+    <a href="https://www.linkedin.com/in/alkama-sunasara-b682a3316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alkama%20Sunasara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alkama.codespace@gmail.com">
+</p>
+<p>
+    <a href="mailto:alkama.codespace@gmail.com">
     <img src="https://img.shields.io/badge/Email-alkama.codespace%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 </p>
 
 ---
