@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 I'm a **Full-Stack JavaScript Developer** who loves building real-world apps using  
-**React.js, Node.js, Express, MySQL**, and now exploring **React Native**.
+**React.js, Node.js, Express, MySQL**, React Native.
 
 I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve real problems.
 
