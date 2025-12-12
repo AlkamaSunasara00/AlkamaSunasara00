@@ -80,7 +80,6 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 - 🏢 **Real Estate Management System**  
 - 🛒 **E-Commerce Platform**  
 - 🗂️ **Portfolio with Animated Tabs & Tech Filters**  
-- 🪡 **TailorConnect** – state → city → tailor finder  
 
 ---
 
