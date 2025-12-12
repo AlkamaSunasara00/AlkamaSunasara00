@@ -70,7 +70,7 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlkamaSunasara00&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlkamaSunasara00&layout=compact&theme=tokyonight&cache_bust=1" />
 </p>
 
 ---
