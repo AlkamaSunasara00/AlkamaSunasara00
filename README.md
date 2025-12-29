@@ -25,7 +25,7 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
 - 🏗️ Custom dashboards & admin panels  
 - 🛒 E-commerce systems  
 - 🏢 Real estate management platforms  
-- 📱 Mobile development using **React Native + Expo**  
+- 📱 Mobile development using **React Native + Expo**
 
 ---
 
