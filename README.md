@@ -73,6 +73,10 @@ I enjoy designing clean UIs, smooth dashboards, and scalable backends that solve
   <img src="https://github-readme-streak-stats-two.vercel.app?user=AlkamaSunasara00&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlkamaSunasara00&layout=compact&theme=tokyonight&cache_bust=1" />
+</p>
+
 
 
 ---
