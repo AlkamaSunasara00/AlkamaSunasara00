@@ -168,41 +168,6 @@ const alkama = {
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to enable the snake animation</b></summary>
-<br/>
-
-1. In your profile repo (`AlkamaSunasara00/AlkamaSunasara00`), create `.github/workflows/snake.yml`
-2. Paste this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ## 🔗 Let's Connect
