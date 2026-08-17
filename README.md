@@ -104,11 +104,6 @@ const alkama = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlkamaSunasara00&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlkamaSunasara00&layout=compact&theme=tokyonight&langs_count=8&border_radius=12" height="170" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats-two.vercel.app?user=AlkamaSunasara00&theme=tokyonight&border_radius=12" width="60%" />
